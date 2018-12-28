@@ -1,0 +1,133 @@
+<?xml version='1.0'?>
+<almight>
+    <index>
+        <name>userdefine</name>
+        <type>fix</type>
+        <res>ทดสอบ1</res>
+        <res>ทดสอบ2</res>
+        <res>สวัสดี</res>
+        <res>เป็นไงบ้าง</res>
+        <res>หนาวไหม</res>
+        <res>สุดจัดปลัดบอก</res>
+        <res>ไม่ไหวแล้ว</res>
+        <res>ร้องเพลงดิ</res>
+        <res>ง่วงนอนยัง</res>
+        <ans>ทดสอบสมบูรณ์1</ans>
+        <ans>ทดสอบสมบูรณ์2</ans>
+        <ans>สวัสดีจ้าาา</ans>
+        <ans>สบายดีเด้อ</ans>
+        <ans>หนาวจุงงงง</ans>
+        <ans>ขนาดปลัดลาออกยังบอกว่าสุดจัด</ans>
+        <ans>ก้พักสิจ๊ะ</ans>
+        <ans>เราจะทำตามสัญญา~ ขอเวลาอีกไม่นาน~~</ans>
+        <ans>ไม่ง่วงหรอก เพราะเป็นบอท</ans>
+    </index>
+    <index>
+        <name>rude</name>
+        <type>random</type>
+        <res>Bobo</res>
+        <res>nooB</res>
+        <res>fuck</res>
+        <res>ShIt</res>
+        <res>โบโบ้</res>
+        <res>นู้ป</res>
+        <res>โง่</res>
+        <res>หรรม</res>
+        <res>ไอ้</res>
+        <ans>พูดไม่เพราะ ไม่น่ารักเลย</ans>
+        <ans>ทำไมพูดแบบนี้ มงื้ออ</ans>
+        <ans>พูดไม่เพราะเลย ไม่คุยด้วยแล้ว</ans>
+        <ans>ว่าเค้าเหรอออ แง่</ans>
+    </index>
+    <index>
+        <name>onlight</name>
+        <type>random</type>
+        <res>on light</res>
+        <res>light oN</res>
+        <res>on The light</res>
+        <res>เปิดไฟ</res>
+        <ans>เปิดไฟให้แล้วน้าาา</ans>
+        <ans>เปิดแล้วนะ</ans>
+        <ans>เปิดไฟให้แล้ว</ans>
+        <ans>หลอดไฟติดแล้ว</ans>
+        <ans>ไฟติดแล้วน้าา</ans>
+    </index>
+    <index>
+        <name>offlight</name>
+        <type>random</type>
+        <res>oFf light</res>
+        <res>light off</res>
+        <res>off tHe light</res>
+        <res>ปิดไฟ</res>
+        <ans>ปิดไฟให้แล้วน้าาา</ans>
+        <ans>ปิดแล้วนะ</ans>
+        <ans>ปิดไฟให้แล้ว</ans>
+        <ans>หลอดไฟดับแล้ว</ans>
+        <ans>ไฟดับแล้วน้าา</ans>
+    </index>
+    <index>
+        <name>bad</name>
+        <type>random</type>
+        <res>ไม่เก่ง</res>
+        <res>ไม่น่ารัก</res>
+        <res>ไม่ใจดี</res>
+        <res>ไม่สุดยอด</res>
+        <res>ไม่เยี่ยม</res>
+        <res>ไม่เจ๋ง</res>
+        <ans>แง่ ชมเค้าหน่อยยย</ans>
+        <ans>ว่าเค้าทะมายย</ans>
+        <ans>.... so sad ....</ans>
+    </index>
+    <index>
+        <name>good</name>
+        <type>random</type>
+        <res>เก่ง</res>
+        <res>น่ารัก</res>
+        <res>ใจดี</res>
+        <res>สุดยอด</res>
+        <res>เยี่ยม</res>
+        <res>เจ๋ง</res>
+        <ans>ขอบคุณค้าบบ</ans>
+        <ans>แน่นอนอยู่แล้วว อิอิ</ans>
+        <ans>Thanh you naja</ans>
+    </index>
+    <index>
+        <name>sticker</name>
+        <type>random</type>
+        <res>STICKER</res>
+        <res>สติ๊กเกอร์</res>
+        <res>ขอติีกเกอร์หน่อย</res>
+        <ans>1</ans>
+        <ans>2</ans>
+        <ans>3</ans>
+        <ans>4</ans>
+        <ans>5</ans>
+        <ans>6</ans>
+    </index>
+    <index>
+        <name>location</name>
+        <type>fix</type>
+        <res>ที่อยู่ญี่ปุ่น</res>
+        <res>JAPAN ADDRESS</res>
+        <res>ที่อยู่มจธ</res>
+        <res>KMUTT ADDRESS</res>
+        <res>ที่อยู่มอศิลปากร</res>
+        <res>SILAPAKORN ADDRESS</res>
+        <ans>Japan|〒150-0002 東京都渋谷区渋谷２丁目２１−１|35.65910807942215|139.70372892916203</ans>
+        <ans>Japan|〒150-0002 東京都渋谷区渋谷２丁目２１−１|35.65910807942215|139.70372892916203</ans>
+        <ans>KUMTT|สนามศูนย์ฝึกเฉลิมพระเกียรติ Khwaeng Bang Mot, Khet Thung Khru, Krung Thep Maha Nakhon 10140|13.647524|100.492733</ans>
+        <ans>KUMTT|สนามศูนย์ฝึกเฉลิมพระเกียรติ Khwaeng Bang Mot, Khet Thung Khru, Krung Thep Maha Nakhon 10140|13.647524|100.492733</ans>
+        <ans>Silapakorn|T.Nakhon Pathom, A.Mueang Nakhon Pathom, Nakhon Pathom 73000|13.647524|100.492733</ans>
+        <ans>Silapakorn|T.Nakhon Pathom, A.Mueang Nakhon Pathom, Nakhon Pathom 73000|13.647524|100.492733</ans>
+    </index>
+    <index>
+        <name>image</name>
+        <type>fix</type>
+        <res>โลโก้ญี่ปุ่น</res>
+        <res>โลโก้บางมด</res>
+        <res>โลโก้ศิลปากร</res>
+        <ans>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPA7VGPiHAEM2K9svyp1-W3dsMbik0uu881Vgl0bddFdNF3nkD</ans>
+        <ans>https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KMUTT.png/200px-KMUTT.png</ans>
+        <ans>https://upload.wikimedia.org/wikipedia/th/thumb/8/88/Silpakorn_University_Logo_02.png/180px-Silpakorn_University_Logo_02.png</ans>
+    </index>
+</almight>

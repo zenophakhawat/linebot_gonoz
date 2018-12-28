@@ -1,0 +1,12 @@
+{
+    "cattelecom": {
+        "url": "https://loraiot.cattelecom.com/portal/iotapi/auth/token",
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json",
+            "Accept": "application/json"
+        },
+        "body": "{ \"username\" : \"YOUR_USERNAME\", \"password\" : \"YOUR_PASSWORD\" }"
+    },
+    "DevEUI": "YOUR_DEVICE_EUI"
+}

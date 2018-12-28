@@ -5,7 +5,7 @@ In the near future I will add the international version.
 ## How it work
 Start express server to handle webhook from LINE
 
-# Install
+## Install
 Clone this project by run the command
 ```
 $ git clone https://github.com/zenophakhawat/gonoz.git
@@ -76,6 +76,18 @@ Open message.xml to add new words or new category. Follow the structure in that 
 ## Bot Training
 Type เทรนบอท in the bot chat to start training.  
 Type หยุดเทรน in the bot chat to stop training.
+
+## Banned ID
+Modify `banned.json`
+```json
+{
+    "Id": [
+        "systemfiledontdelete",
+        "systemfiledontdelete",
+        "xxxxxxxxxxxxxxxxxxxx"
+    ]
+}
+```
 
 ## Author
 Phakhawat Chullamonthon

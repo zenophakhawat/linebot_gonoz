@@ -7,20 +7,28 @@
         <res>ทดสอบ2</res>
         <res>สวัสดี</res>
         <res>เป็นไงบ้าง</res>
-        <res>หนาวไหม</res>
         <res>สุดจัดปลัดบอก</res>
-        <res>ไม่ไหวแล้ว</res>
         <res>ร้องเพลงดิ</res>
-        <res>ง่วงนอนยัง</res>
         <ans>ทดสอบสมบูรณ์1</ans>
         <ans>ทดสอบสมบูรณ์2</ans>
         <ans>สวัสดีจ้าาา</ans>
         <ans>สบายดีเด้อ</ans>
-        <ans>หนาวจุงงงง</ans>
         <ans>ขนาดปลัดลาออกยังบอกว่าสุดจัด</ans>
-        <ans>ก้พักสิจ๊ะ</ans>
         <ans>เราจะทำตามสัญญา~ ขอเวลาอีกไม่นาน~~</ans>
-        <ans>ไม่ง่วงหรอก เพราะเป็นบอท</ans>
+    </index>
+    <index>
+        <name>joke</name>
+        <type>random</type>
+        <res>ขอมุก</res>
+        <res>joke</res>
+        <ans>มหาวิทยาลัยที่ต้องการช้างเพิ่มคือ มหาวิทยาลัยเชียงใหม่</ans>
+        <ans>เพราะว่าที่นี่คือ more ช.</ans>
+        <ans>งาดำ ทำให้ลิงในรามเกียรติ์ไปไหนไม่ได้</ans>
+        <ans>เพราะว่ามีสารต้านหนุมานอิสระ</ans>
+        <ans>ซานตาคลอสจะเป็นผู้ชาย</ans>
+        <ans>ผู้หญิงจะเรียกซานยายคลอส</ans>
+        <ans>DONT DELETE (ADD NEW ABOVE)</ans>
+        <ans>DONT DELETE (ADD NEW ABOVE)</ans>
     </index>
     <index>
         <name>rude</name>
